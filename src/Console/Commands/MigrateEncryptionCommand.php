@@ -40,8 +40,6 @@ use AustinHeap\Database\Encryption\EncryptionFacade as DatabaseEncryption;
  * <code>
  * php artisan migrate:encryption
  * </code>
- *
- * @package     laravel-database-encryption
  */
 class MigrateEncryptionCommand extends \Illuminate\Console\Command
 {

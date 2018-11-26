@@ -60,7 +60,6 @@ use AustinHeap\Database\Encryption\EncryptionFacade as DatabaseEncryption;
  * - setAttribute -- has been over-ridden here.
  * - getAttributes -- has been over-ridden here.
  *
- * @package     laravel-database-encryption
  * @see         \Illuminate\Support\Facades\Crypt
  * @see         \Illuminate\Contracts\Encryption\Encrypter
  * @see         \Illuminate\Encryption\Encrypter
