@@ -15,6 +15,7 @@ use Illuminate\Support\Facades\Config;
 /**
  * EncryptionHelper.
  *
+ * @package     laravel-database-encryption
  * @link        https://github.com/austinheap/laravel-database-encryption
  * @link        https://packagist.org/packages/austinheap/laravel-database-encryption
  * @link        https://austinheap.github.io/laravel-database-encryption/classes/AustinHeap.Database.Encryption.EncryptionHelper.html
